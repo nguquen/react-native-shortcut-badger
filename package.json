@@ -1,0 +1,20 @@
+{
+  "name": "react-native-shortcut-badger",
+  "version": "0.0.1",
+  "description": "A react-native wrapper for ShortcutBadger",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguquen/react-native-shortcut-badger.git"
+  },
+  "keywords": [
+    "react-native",
+    "shortcutbadger"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguquen/react-native-shortcut-badger/issues"
+  },
+  "homepage": "https://github.com/nguquen/react-native-shortcut-badger#readme"
+}
