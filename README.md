@@ -6,8 +6,8 @@ $ npm i --save react-native-shortcut-badger
 $ react-native link react-native-shortcut-badger
 ```
 
-## Import the module and use in your react-native code
-```
+## Import the module and use it in your react-native code
+```js
 import BadgeNumberAndroid from 'react-native-shortcut-badger'
 ...
 BadgeNumberAndroid.setNumber(5)
