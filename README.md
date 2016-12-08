@@ -20,4 +20,4 @@ $ react-native run-android
 
 <img src="https://raw.githubusercontent.com/nguquen/react-native-shortcut-badger/master/screenshot.png" alt="screenshot" width="50%">
 
-You can see the list of supported devices at [https://github.com/leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)
+You can see the list of supported devices at [leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)
